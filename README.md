@@ -18,7 +18,7 @@ Simplest Binance-Futures SDK mixing USDT-base-future with coin-base-future.
 - The SDK wrappered several most frequently used methods not all. The other methods may update sooner.
 - The SDK will differ coin-base-futures from usdt-based-futures by symbol name(or param inputted in get position/balance method) automatically. So, make sure your symbol name is correctly inputted.
 - Welcom to all business corporation: 
-  - Getting invation/broker rebate. 
+  - Getting invitation/broker rebate. 
   - Learning quantitative trading. 
   - Design program for your strategy. 
   - Project liquidity provider bot.
