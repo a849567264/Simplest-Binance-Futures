@@ -1,17 +1,17 @@
 # Simplest-Binance-Futures
 Simplest Binance-Futures SDK mixing USDT-base-future with coin-base-future.
 
-##How to start?
+## How to start?
 ### 1. Install ccxt as first
- ··· Shell
+``` Shell
  pip install ccxt 
- ···
+```
 ### 2. Copy this .py file into your workfolder.
 
 ### 3. import it in your .py file.
-  ··· Python
+``` Python
   from BinanceFutures import BinanceFut
-  ···
+```
 
 
 ## Some tips:
