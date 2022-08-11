@@ -89,7 +89,7 @@ class BinanceFut(binance):
                   'price': price,
                   'quantity': amount,
                   'timeInForce': 'GTC',
-                  'newClientOrderId': 'x-XZlmNuiD' + str(time.time()),  # 如有brokerId,可于次数替换
+                  'newClientOrderId': 'x-waACsaTa' + str(time.time()),  # 如有brokerId,可于此处替换
                   'timestamp': int(time.time() * 1000)
                   }
         return binance.fapiPrivatePostOrder(params) if 'USDT' in symbol else binance.dapiPrivatePostOrder(params)
